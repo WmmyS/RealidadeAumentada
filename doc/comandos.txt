@@ -1,4 +1,7 @@
 // considere instalar da versão 22 ou acima do pip
 python -m pip install -U pip 
-pip install opencv-python
+pip3 install opencv-contrib-python
 python -m pip install -U matplotlib
+
+// Verificar versões instaladas
+pip freeze
